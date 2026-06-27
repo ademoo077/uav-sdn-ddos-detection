@@ -84,7 +84,7 @@ This system detects malicious traffic and reacts dynamically through the SDN con
 ### Drone Control Panel
 
 <p align="center">
-  <img src="dronecontrole.png" width="92%" alt="Drone Control Panel">
+  <img src="dronecontrolle.png" width="92%" alt="Drone Control Panel">
 </p>
 
 <p align="center">
